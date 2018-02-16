@@ -1,0 +1,7 @@
+include/
+bin/
+lib/
+.gitignore
+pyvenv.cfg
+.idea
+pip-selfcheck.json
